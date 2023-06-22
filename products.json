@@ -1,0 +1,116 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Nike Air Men’s Hoodie -  Imported Hoodie Red",
+      "price": "130",
+      "url": "./images/product-1.png",
+      "category": "Dresses"
+    },
+    {
+      "id": 2,
+      "title": "Armani Frok Ladies -  Imported Fork Blue",
+      "price": "210",
+      "url": "./images/product-2.png",
+      "category": "Dresses"
+    },
+    {
+      "id": 3,
+      "title": "Apple Original Smart Watch - White ",
+      "price": "900",
+      "url": "./images/product-3.png",
+      "category": "Accessories"
+    },
+    {
+      "id": 4,
+      "title": "Nike Men’s Glasses -  Imported Glasses Yellow ",
+      "price": "100",
+      "url": "./images/product-4.png",
+      "category": "Accessories"
+    },
+    {
+      "id": 5,
+      "title": "Nike Air Men’s Shirt -  Imported Shirt White",
+      "price": "100",
+      "url": "./images/product-5.png",
+      "category": "Dresses"
+    },
+    {
+      "id": 6,
+      "title": "HeadPhones -  Imported HeadPhones Black",
+      "price": "50",
+      "url": "./images/product-6.png",
+      "category": "Gadget"
+    },
+    {
+      "id": 7,
+      "title": "Gucci Ladies Hand Bag -  Imported HandBag Brown",
+      "price": "50",
+      "url": "./images/product-7.png",
+      "category": "Accessories"
+    },
+    {
+      "id": 8,
+      "title": "Nike Air Men’s Soes -  Imported Shoes Green ",
+      "price": "300",
+      "url": "./images/product-8.png",
+      "category": "Footwear"
+    },
+    {
+      "id": 9,
+      "title": "Heels Ladies Shoes -  Imported Shoes Red",
+      "price": "300",
+      "url": "./images/product-9.png",
+      "category": "Footwear"
+    },
+    {
+      "id": 10,
+      "title": "ROG Mouse - Model 25",
+      "price": "300",
+      "url": "./images/product-10.png",
+      "category": "Gadget"
+    },
+    {
+      "id": 11,
+      "title": "ROG Airpods - Model 12",
+      "price": "700",
+      "url": "./images/product-11.png",
+      "category": "Gadget"
+    },
+    {
+      "id": 12,
+      "title": "Apple Original Smart Watch - Black ",
+      "price": "900",
+      "url": "./images/product-12.png",
+      "category": "Accessories"
+    },
+    {
+      "id": 13,
+      "title": "Apple Original MacBook - Silver ",
+      "price": "2000",
+      "url": "./images/product-13.png",
+      "category": "Gadget"
+    },
+    {
+      "id": 14,
+      "title": "Apple Original Smart Watch - Red",
+      "price": "850",
+      "url": "./images/product-14.png",
+      "category": "Accessories"
+    },
+    {
+      "id": 15,
+      "title": "ROG JoyStick - Model 325",
+      "price": "250",
+      "url": "./images/product-15.png",
+      "category": "Gadget"
+    },
+    {
+      "id": 16,
+      "title": "Apple Iphone - Model 14 pro Max",
+      "price": "5000",
+      "url": "./images/product-16.png",
+      "category": "Gadget"
+    }
+  ]
+}
